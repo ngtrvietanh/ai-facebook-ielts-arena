@@ -1,0 +1,8 @@
+node_modules/
+.env
+
+data/conversations.json
+data/leads.json
+data/training_data.json
+
+.DS_Store
