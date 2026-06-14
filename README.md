@@ -1,5 +1,16 @@
-# ai-facebook-ielts-arena
 # FB AI BOT - IELTS Arena
+
+git clone <repo>
+cd fb-ai-bot
+npm install
+cp .env.example .env
+mkdir -p data
+echo "[]" > data/conversations.json
+echo "[]" > data/leads.json
+echo "[]" > data/training_data.json
+node server.js
+
+---
 
 Bot Facebook Messenger sử dụng:
 
