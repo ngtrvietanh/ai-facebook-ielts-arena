@@ -1,0 +1,30 @@
+[
+  {
+    "id": "conv_1781450333800",
+    "facebookId": "36341359445507378",
+    "userMessage": "khỏe không",
+    "aiAnswer": "Dạ em khỏe ạ, cảm ơn anh/chị đã hỏi thăm! Anh/chị hôm nay thế nào ạ? Có cần em tư vấn gì về khóa học IELTS không?",
+    "createdAt": "2026-06-14T15:18:53.800Z"
+  },
+  {
+    "id": "conv_1781450424883",
+    "facebookId": "36341359445507378",
+    "userMessage": "khỏe không",
+    "aiAnswer": "Dạ em khỏe ạ, cảm ơn anh/chị đã hỏi thăm! Anh/chị hôm nay thế nào ạ? Có cần em tư vấn gì về khóa học IELTS không ạ?",
+    "createdAt": "2026-06-14T15:20:24.883Z"
+  },
+  {
+    "id": "conv_1781450641094",
+    "facebookId": "36341359445507378",
+    "userMessage": "khỏe không",
+    "aiAnswer": "Dạ em khỏe ạ, cảm ơn anh/chị đã hỏi thăm! Anh/chị hôm nay thế nào ạ? Có cần em tư vấn gì về khóa học IELTS không ạ?",
+    "createdAt": "2026-06-14T15:24:01.094Z"
+  },
+  {
+    "id": "conv_1781450656249",
+    "facebookId": "36341359445507378",
+    "userMessage": "có",
+    "aiAnswer": "Chào bạn! Rất vui được hỗ trợ bạn.\n\nBạn muốn tìm hiểu về khóa học IELTS hay có thắc mắc gì về trung tâm IELTS Arena vậy ạ? Bạn cho mình xin thêm thông tin như tên, số điện thoại và khu vực bạn đang ở để mình tư vấn chi tiết nhất nhé!",
+    "createdAt": "2026-06-14T15:24:16.249Z"
+  }
+]
